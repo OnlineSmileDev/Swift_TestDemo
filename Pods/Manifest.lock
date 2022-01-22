@@ -1,0 +1,16 @@
+PODS:
+  - TimelineTableViewCell (2.2.2)
+
+DEPENDENCIES:
+  - TimelineTableViewCell
+
+SPEC REPOS:
+  trunk:
+    - TimelineTableViewCell
+
+SPEC CHECKSUMS:
+  TimelineTableViewCell: f0c35f7941775e48a5356e7c7ae3a5a51721c80a
+
+PODFILE CHECKSUM: 582c97b898dfe32d4dfc56447f66ac9cc029c468
+
+COCOAPODS: 1.11.2
